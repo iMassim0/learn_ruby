@@ -77,12 +77,12 @@ end
 # once the above tests pass,
 # write tests and code for the following:
 
-describe "#multiply" do
+describe "multiply" do
 
   it "multiplies two numbers"
 
   it "multiplies several numbers"
-  
+
 end
 
 describe "#power" do
